@@ -5,6 +5,6 @@ app.get('/',function(req,res){
     res.send('h1');
 })
 
-app.listen(1000,function(){
+app.listen(8002,function(){
     console.log('ok');
 })
